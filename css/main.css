@@ -1,0 +1,15 @@
+html, body {
+  padding-top: 5em;
+  padding-bottom: 5em;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.name-header {
+  text-align: center;
+}
+
+.projects-list {
+  padding-left: 2em;
+  padding-right: 2em;
+}
